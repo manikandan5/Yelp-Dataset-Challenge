@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# Yelp-Dataset-Challenge
-=======
 # Yelp-Dataset-Challenge
 ILS - Z534 Search Project on Yelp Dataset Challenge
 
@@ -81,4 +78,3 @@ All the classes inside the folder objectStructure contain a class with a structu
     python3 scorer.py <Path to groundtruth.txt> <Path to output file>
 
    This would give us the accuracy of the program.
->>>>>>> 277dd1c89e52598f5ea70eae913c2332204f3b95
